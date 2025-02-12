@@ -55,7 +55,7 @@ button,input[type="submit"]{
 
 
   .container{
-    width: 100%;
+    width: 90%;
     max-width: 1080px;
     margin: 0 auto;
   }

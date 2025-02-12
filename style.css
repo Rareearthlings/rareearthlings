@@ -1982,12 +1982,7 @@ section.production-row-4 {
 }
 
 
-.home-template section.HomeHero>div {
-    display: flex;
-    flex-direction: row;
-    gap: 50px;
-    align-items: center;
-}
+
 
 /*----Responsiveness----*/
 

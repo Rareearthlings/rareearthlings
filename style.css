@@ -481,11 +481,11 @@ section.WhatWeDo .secRow .col4:last-child {
 
 
 
-h1.section__pre-title{
-  font-size: 65px;
-  font-weight: 600;
-  max-width: 450px;
-  color: #ffffff;
+h1.section__pre-title {
+    font-size: 43px;
+    font-weight: 600;
+    color: #ffffff;
+    text-align: center;
 }
 
 h1.section__pre-title span{
